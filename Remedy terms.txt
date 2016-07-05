@@ -1,0 +1,221 @@
+Service
+Service provider
+Integration planning
+Regresion testing
+End to end testing
+System Testing
+Data
+Information
+Mata data
+Best practice
+Stanadards
+Process
+Function
+Service catalogue
+Estimation
+Restore
+Workaround
+schedule
+Client
+Customer
+Users
+End users
+Business users
+Business customer
+Baseline
+Risk
+Configuration
+Operation
+Control
+Access
+Application
+Domain 
+Technical
+Core service
+ISO/IEC 20000
+Amount
+Specific 
+Particular
+Resources
+Demand
+Downtime
+Cron job/Batch job
+Environment
+Enhance
+Development
+Escalation
+Error
+Enterprise
+Management
+Glossary
+Copyright
+Failure
+Recover
+fault
+Tolerance
+IT services
+first-line support 
+L1,L2,L3
+Asset
+Facility
+Use
+Purpose
+Follow the sun
+Daylight saving
+Internal/External customer
+IT infrastructure
+live environment
+Major/Minor incident
+Onboard
+MTRS
+MTTR
+Monitoring
+Optimize
+outcome
+Pain area
+Outsource
+production environment
+Proactive
+Reactive
+Quality
+Release
+Deployment
+remediation
+Resilience
+Response time/Request time
+Term
+Concept
+Meaning
+Definition
+Policy
+Server
+Service desk
+Log a issue/Create
+Service hours
+Improvement
+Status
+Support hours
+Test environment
+Third line support
+Third party
+Threat
+Threshold
+Transaction
+Utility
+Warranty
+work in progress (WIP)
+Word order
+Bandwidth
+Critical
+Analysis
+Backout
+Backup
+Benchmark
+Build environment
+Targets
+Compliance
+Activity Log
+Wisdom
+
+
+
+
+
+
+
+
+
+
+
+->Concurrent means happening at the same time, as in two movies showing at the same theater on the same weekend.
+
+->Current:While current refers to something that is happening right now, concurrent describes two or more things happening at the same time. 
+If its right now, and in the present, it is current.
+(ongoing,In progress,present time,online,up to date,latest,up to the minute,Live, )
+
+->Consecutive means one after the other in a series
+Consecutive numbers also follow each other, or advance in the right order. For example, 5, 6, 7, 8, 9, 10 are consecutive numbers. You should number the pages on a term paper to keep them consecutive so the teacher doesn't get confused.
+(back to back, straight,serial,sequence,order)
+
+->Service provider:it is more generally used to refer to third party or outsourced suppliers, including telecommunications service providers (TSPs), application service providers (ASPs), storage service 
+providers (SSPs), and Internet service providers (ISPs).
+
+->Types of service providers:
+Application service provider (ASP)
+Network service provider (NSP)
+Internet service provider (ISP)
+Managed service provider (MSP)
+Storage service provider (SSP)
+Telecommunications service provider (TSP)
+SAML service provider
+Master managed service provider (MMSP)
+Managed Internet service provider (MISP)
+Online service provider
+Payment service provider (PSP)
+
+->IT professionals sometimes differentiate between service providers by categorizing them as type I, II, or III.[1] The three service types are recognized by the IT industry although specifically defined by ITIL and the US Telecommunications Act of 1996
+1)Type I: internal service provider
+2)Type II: shared service provider
+3)Type III: external service provider
+
+->Peak hours: are the hours when traffic or ridership is heaviest. It's usually during the morning and evening rush hours. On commuter railroads, the fares are highest then and on toll roads, sometimes the tolls are highest then. 
+The busiest hours, as during traffic, etc; rush hour
+
+
+
+ITIL Stage
+ 
+Processes
+ 
+
+-->Service Strategy
+•Strategy Management for IT Services
+•Service Portfolio Management
+•Demand Management
+•Financial Management for IT Services
+•Business Relationships Management
+ 
+
+-->Service Design
+•Design Coordination
+•Service Catalogue Management
+•Service Level Management
+•Risk Management
+•Capacity Management
+•Availability Management
+•IT Service Continuity Management
+•Information Security Management
+•Compliance Management
+•Architecture Management
+•Supplier Management
+ 
+
+-->Service Transition
+•Change Management
+•Change Evaluation
+•Project Management (Transition Planning and Support)
+•Application Development
+•Release and Deployment Management
+•Service Validation and Testing
+•Service Asset and Configuration Management
+•Knowledge Management
+ 
+
+-->Service Operation
+•Event Management
+•Incident Management
+•Request Fulfillment
+•Access Management
+•Problem Management
+•IT Operations Control
+•Facilities Management
+•Application Management
+•Technical Management
+ 
+
+-->Continual Service Improvement
+•Service Review
+•Process Evaluation
+•Definition of CSI Initiatives
+•Monitoring of CSI Initiatives
+ 

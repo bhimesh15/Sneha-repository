@@ -1,0 +1,353 @@
+t2998899
+
+Important URL's:
+
+http://querylogging.capita.zone/connect/finance/frames/Author_Limits/search.asp	To check whether cost code is valid or not
+
+INC000001994760:
+-->Contact people user permission to change the remedy user details.
+-->Should be support staff user and need line manager approval
+-- > If user is a support staff user and he needs extra queue access then only Line manager approval is sufficient
+-- > If user is a end user and he want extra queue access then check below:
+1)User should be support staff
+2)Line manager and CCM manager approval
+3)Cost code
+-- > Give floating license to support staff
+-- >In JML what the CCM his approval should be require for support staff creation
+
+-- >I was just looking at Remedy to see whether I could view (but not amend) all open tickets for Real Estate & GL Hearn (ZRE? and ZRG?) but do not appear to have such permission.
+
+Is this possible?  If so, please advise the process I should follow to achieve this.
+
+if user is asking only view permission then 
+Incident user permission give
+set SHR:Share Landing page
+Line manager approval
+
+Set overview console page
+reset Mat sutton password
+if not set SRM request console page for him
+
+-- > 403 error please set SRS Request form for user as home page
+
+-- > Auto assign the request where we dont know the Assigned group name.
+
+https://capitaitsm.ad.capita.co.uk						Support staff users
+
+https://www.capitarequest.co.uk						End users
+
+http://itsvppnapp05:8844/Index1.aspx 
+
+https://capitaitsm.ad.capita.co.uk/arsys/forms/bsswmappvip/CTM:People
+
+https://capitaitsm.ad.capita.co.uk/arsys/forms/bsswmappvip/SRM:Request
+
+https://capitaitsm.ad.capita.co.uk/arsys/forms/bsswmappvip/CTM:PasswordReset
+
+Production password give: R8m8dy#100	
+
+SRS:ServiceREquestConsole form set for End users 
+	
+-- > support staff with only view access does not need CCM approval
+
+***********************************************************************************************************************
+
+------>For enable a proposed user:
+
+--Check whether user is a End user/Support group user
+--Search user in People form with First/last name
+--With the same name multiple users then add user as "Sneha.Koli.1"
+--Login id:Sneha.Koli (First letter of First/Last name should be capital)
+--Password:Blank
+--License type:Read
+--Update access restriction:Add the company which he requested in Incident request
+--Profile status:Enabled
+--Work info tab:Add the Incident ticket no
+--Send a mail from "Email system"
+
+***********************************************************************************************************************
+
+------>For reset a password of user:
+
+--Search user in People form
+--Open a CTM:PasswordReset form
+--Enter a user
+--Click enter
+--Reset password as R8m8dy#100
+--Update the Work info tab:Add the Incident ticket no
+--Send a password to the user in a separate mail
+--Send a mail from "Email system"
+
+***********************************************************************************************************************
+
+------>Remove End user/normal user from Capita application:
+
+--Search a user in People form
+--check the Support staff status if its "No" then
+--Profile status set "Offline"
+--Notification Availability set "No"
+--Assignment Availability set "No"
+--License type set "Read"
+--Reset the password (Set blank)from CTM:PasswordReset form
+--Update the Work info tab:Add the Incident ticket no
+--Send a mail from "Email system"
+
+***********************************************************************************************************************
+
+------>Remove Support staff user/production team member from Capita application:
+
+--Search a user in People form
+--check the Support staff status If its "Yes" then
+--Profile status set "Offline"
+--Notification Availability set "No"
+--Assignment Availability set "No"
+--License type set "Read"
+--Reset the password from CTM:PasswordReset form
+--Cost center code "Dont remove" (Again while adding user need to take CCM approval)
+--Line manager approval is required
+--Update the Work info tab:Add the Incident ticket no
+--Check if Ticket assigned any if "Yes" then assigned to some other user/Close it
+--Send a mail from "Email system"
+
+***********************************************************************************************************************
+
+---> While removing a support staff member
+
+Hi,
+
+For removing Support staff's profile (Haroon Saleem) from Capita Remedy application Line manager's approval is required.
+
+Kindly provide the approval to proceed further. Thanks !!
+
+
+Kind Regards,
+-Sneha Koli
+Mob+91-8855036196
+Email:Sneha.Koli@capita.co.uk
+
+***********************************************************************************************************************
+
+--->When we reset a user password
+
+Hi,
+
+The User password has been reset successfully as per the Incident request and shared on a separate mail with the User.
+
+Please check and confirm.
+
+
+Kind Regards,
+-Sneha Koli
+Mob+91-8855036196
+Email:Sneha.Koli@capita.co.uk
+
+***********************************************************************************************************************
+
+--->When closing a Incident request
+
+Hi Arvind,
+
+I am closing the Incident request-INC000001995554.
+
+Please do let me know, In case if you have any concern.
+My Email id:Sneha.Koli@capita.co.uk
+
+
+Kind Regards,
+-Sneha Koli
+Mob+91-8855036196
+
+
+***********************************************************************************************************************
+
+-- >Support staff if "Yes" then while doing "Offline" to a user need "Business justification".
+
+-- >For Enable user no need to send an email with "Username" and "Password".
+
+-- >When we add a new user to Capita remedy application then need to send Login ID and Password to a User in separate mail.
+
+-- >Only for password reset need to send the "Password" email to the user.
+
+-- >Incident request for User account share mailbox : INC000001940712
+
+-- >Support group people are those who actually work on the tickets
+
+-- >End user means who using our application to raise a defect
+
+-- >Dont remove users "Cost center code", because then again we have to take "CCM approval" for adding a "Support staff user" in People form.
+
+***********************************************************************************************************************
+
+--->When adding a new user to a Capita remedy application
+
+Hi,
+
+The user has been created/added successfully in Capita Remedy application as per the Incident request.I have shared a Login ID and Password directly with User on a Separate mail.
+Please check and confirm.
+
+
+Kind Regards,
+-Sneha Koli
+Mob+91-8855036196
+Email:Sneha.Koli@capita.co.uk
+
+***********************************************************************************************************************
+
+----> When a user account is enabled form proposed
+
+Hi,
+
+The user profile/account has been enabled as per the Incident request.
+User ID- Trevor.Tippet
+
+Please check and confirm.
+
+
+Kind Regards,
+-Sneha Koli
+Mob+91-8855036196
+Email:Sneha.Koli@capita.co.uk
+
+***********************************************************************************************************************
+
+freechanrge account:
+snehakoli764@gmail.com
+sneha123
+
+Paytm account:
+8855036196
+sneha123
+
+Earn free talktime
+sneha_koli
+sneha@123
+
+***********************************************************************************************************************
+
+
+PF UAN no:100383741443
+PF no: MH/PUN/34224/59622
+Bank HDFC account no: 50100108615785
+
+New PF no:  XX/XXX/999999/999
+MH/121598/9832
+
+************************************************************************************************************************
+
+Hi Girish,
+
+Before adding below two profile's in the Capita Remedy application. 
+
+Saloni Satav : P10320087
+Akshay Ladha : P10333366
+
+Please could you provide the below some details about them.
+
+-- >First name
+-- >Last name
+-- >Email address
+-- >Phone number
+-- >Company name
+
+Please do let me know, If in case any concern.
+
+
+Kind Regards,
+-Sneha Koli
+Mob+91-8855036196
+Email:Sneha.Koli@capita.co.uk
+
+************************************************************************************************************************
+
+F&F request has been successfully raised . The details of request raised are as given below :
+ 
+Division  :    Tech Mahindra  
+Request Reference No  :    274309  
+Category  :    India Full and Final Settlement (FFS)  
+    Sub Category  :    FFS Status  
+Detailed Description  :    Hi, As 15th April was my last day in TechMahindra(Hinjewadi). Can you please help me on the below queries. --Amount of 15 days salary --Amount of 42 days earned leaves --Amount of Medical/LTA --Salary slip Above all I didnt received in May month salary. Kindly do the needful. Thanks.. Kind Regards, -Sneha Koli Mob+91-8855036196  
+ Email  :    snehakoli764@gmail.com  
+Cell  :    8855036196  
+Expected Resolution Time  :    6/15/2016 12:24:00 PM  
+
+
+PF error:
+Since Previous Establishment ID PUPUN0034224596 is not registered at the portal, you cannot file the transfer claim online. 
+It is advised to submit physical claim through previous or present employer.
+
+**************************************************************************************************************************
+
+When adding a support staff  user in Remedy system:
+--Before adding the user check his cost code valid or not
+-- Need Line managers approval
+-- Need CCM approval (attach CCM and Line manager approval in Incident ticket)
+-- Need Cost code 
+-- Give the company access(update access restriction) as per the support group name(see in access matrix)
+-- Give the permission as per any mirror ID
+-- Check the support organization and support group name in access matrix sheet
+-- Share user id and password with user
+-- set SHR:Share Landing page(AR System user preference form)
+-- Give the floating license 
+-- Add cost code in Financials tab in people form
+
+***********************************************************************************************
+
+all task of techm write
+
+Driver and Vehicle and proposed choose in people form (Driver and Vehicle Standards Agency)
+
+search
+
+enable user 
+
+set user id and password but dont send them if they ask then send
+.
+task :
+
+40 proposed users enable of DVSA
+
+against each user create one incident ticket n close it assign to myself
+
+
+https://customerapps.bmc.com/spac/o/welcome.html?F700002937=LPU93.8.1.01
+
+
+*******************************************************************************************************
+Incident ticket:INC000001998450 raised by me
+
+Driver & Vehicle Standards Agency - SIAM.....Below proposed users has been enabled as per the request
+
+First name     Last name
+
+Theresa	Afonso
+Steven	Ainscow
+Ronju	Ali
+Keith	Ashcroft
+Bethan	Attwell
+Sridhar	Babu
+Steven	Badger
+Angela	Bailey
+Matthew	Bell
+Joe	Bennett
+
+
+**************************************************************************************************************
+
+Performed below tasks:
+
+
+1.       Enabling proposed users
+
+2.       Password reset
+
+3.       Disable users
+
+4.       Enable users
+
+5.       Create end users with Read license. 
+
+6.       Correct foundation data (Phone, Email etc). Email Id change requires to follow some steps.
+
+
+check submitter mode for me
+
