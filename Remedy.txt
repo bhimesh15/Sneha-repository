@@ -1,0 +1,119 @@
+https://docs.bmc.com/docs/display/public/itsm90/Change+management+approval+process
+https://docs.bmc.com/docs/display/public/change81/Configuring+approvals+-+Quick+start
+https://docs.bmc.com/docs/display/public/change81/Configuring+custom+process+flows
+
+On the way you can pick up some tips for doing Administrative Operations/Configurations in to Remedy-
+
+ 
+
+Forms-Schema To Represent Data(Tables in Database)
+
+Active Links-An Object which would be triggered on the basis of User Interaction in the Application to perform some operation,(Displaying Message,Changing the color of the Field Label,Pushing/inserting/fetching data to/from other Forms/Tables)
+
+Filters-An Object which would be triggered on the basis of the interactions/operations happening at the data/records/transaction in the Form/Table.(Submit/Modify/Delete)
+
+Escalation-Same to that of Filter but executes on the basis of the Time Interval.
+
+ 
+
+Access Control-
+
+Permission Groups and Roles-To control the access(To Forms,Rows,Columns) these two Objects are used in Remedy.
+
+ 
+
+Integration Methods-
+
+CAPI
+
+Java API
+
+Webservices
+
+View Form
+
+Vendor Form
+
+ 
+
+The best place to start with is Remedy Documentations,(Remedy Basic Concepts Guide,Workflow Objects Guide,Forms and Application Objects Guide,Database Referrence Guide,Integrating Third Party Applications Guide)
+
+ 
+
+As this is one of the best/rich enterprise tool to automate the Service Management,the scope would also be good for you-
+
+First of all there is a main Server Package(ARSystem)- This we will download and install it in a Server Box;-Remedy Server.
+
+ 
+
+In Remedy, all the components like Forms and other Workflows(Active Links,Filters,Escalations) is represented in a DEF-file format(same kind of class files in java) which would be interpreted by the main Remedy Server component.This we would call it as Remedy Platform.
+
+ 
+
+To login to Remedy Server, we have these client components-Remedy User(thick client), Browser(thin client) and Remedy Administrator or Developer Studio(Admin Tool)-IDE.
+
+ 
+
+Remedy Architecture:
+
+ 
+
+1.Presentation Layer-
+
+ 
+
+As I said we have Remedy Administrator Tool/Developer Studio(Remedy IDE), we handle all the Form/Workflow creations in this-(Admin/Development activities),
+
+ 
+
+Form creation would be a kind of drag and drop as you do it in VB, wherein we have Form Object listed aside like Character/Text Field,Drop Down,Integer Fields,Borders,Labels......
+
+ 
+
+Once you design our Form Structure through drag and drop, the same structure would be saved/represented in the DEF File format in the Remedy Server.We don have to code as you do in Java for creating Forms here.(using Admin Tool/Developer Studio Remedy IDE's-connecting to Remedy Server, through simple click and drag method to create Forms).
+
+ 
+
+2.Business Layer-
+
+ 
+
+To define Business Layer, in Remedy IDE itself we have seperate Windows to create ARSystem Objects(Active Links,Filters and Escalations) through which again a simple drag and drop with your logical operators to build the Remedy Workflows.
+
+ 
+
+Again this will be represented in the DEF File, which Remedy Server can interpret and execute it.
+
+ 
+
+3.Database Layer-
+
+ 
+
+The data which is being shown in the Presentation Layer and the operations which are being performed in the Business Layer will ultimately goes to the Relational Database(like Oracle,DB2,My SQL).
+
+ 
+
+ 
+
+The End user will be interacting with the Remedy User(thick client)-exe, or through Browser(thin client), the Remedy Forms and Workflows which you designed in the Remedy IDE will be viewed in these two client tools,
+
+ 
+
+On performing actions in the User Tools by the End User, there will be an API communication from these Client to the Remedy Server and through which the Forms will be loaded and the Workflows will be executed in the Client and Server Environment.
+
+ 
+
+There is no coding of any programming languages required to create Standalone Applications(Set of Forms and Workflows) on Remedy Platform-All you need to know is to understand the Remedy Workflows and Tools.
+
+ 
+
+ 
+
+With this platform, BMC has powered ITSM applications to automate the Service Management(you can go through ITIL to understand what is being done in the Incident and Problem framework, but through this platform you can build any kind of ticketing/enterprise applications(as mentioned earlier) which you may want to represent in the Web with out core programming.
+
+The whole idea of Action Request System was to have a tool so users(Remedy admins, developers, mgrs, architects etc) can develop business applications without having to master all the complexities of a traditional programming language. You can build a very robust application without knowing any programming application by just using the core functionality provided by the ARSystem platform using Forms, Activelinks, Filters and Escalations.
+
+ 
+
+At the sametime, it also provides a rich set of capabilities to enhance your applications using Java api, web services, soap calls, database integrations, LDAP INtegration and a lot more
