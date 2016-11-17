@@ -1,0 +1,357 @@
+fill dar timesheet 
+read notes
+
+
+
+User has been removed from the "CLPS PRU - Change Management group"
+
+
+queue and converted him from Support staff user to Normal user,
+
+
+
+
+
+INC000002341525
+
+User has been added to the "Data Centre Operations" remedy queue
+
+
+Field Services - London, Rochester Row -- user added to this queue
+
+User has been removed from the "Apps Mids MS 3rd Line Support" queue
+
+007104000629003
+
+
+User Nazia.Bi has been removed from the Remedy system
+User has been removed from the Remedy system
+
+R8m8dy#100
+
+
+User has been added to the Remedy system as a Normal user and shared user id and password with the User on email separately
+
+
+User has been added to the Remedy system as a support staff user and shared user id and password with the User on email separately
+
+
+midtier		Tinky@123
+PC		pinky@420
+Desktop		Pinky@420
+
+
+
+Service Management Systems
+
+
+user removed from the Service Transition Assurance queue:
+
+INC000002318954
+
+
+Password has been reset for the user Stephen.Westlake and shared on separate mail
+
+
+Shraddha.Kasliwal
+Pinky@123
+
+
+Can you please give approval to remove the following people from the Service Transition Assurance queue:
+
+
+20oct
+may b i ll be able to cmplete this by tday eod
+
+
+Connor.Gilroy
+
+Mark.Kirsop 
+
+
+
+Capita Poland
+
+R8m8dy#100
+
+
+
+Joel.Kikkert@capita.com
+
+
+
+9030685401
+
+User has been added to the Remedy system as a normal user and shared user id and password with the User on email separately
+
+
+INC000001807280
+REQ000001616333  Temporary password reset of a Laptop
+
+
+
+User has been removed from the Platform Services Unix queue
+
+
+
+
+INC000001739355  Nilesh Bharakhada
+INC000001997456   James Ogilvie
+
+heena.sayyed@tcs.com
+
+andrew.tester@westsussex.gov.uk 
+ilets
+reasoning
+
+
+INC000002254571
+
+
+User has been added to the Remedy system as a normal user and shared user id and password with the User on email separately
+
+R8m8dy#100
+
+'Status*'="Closed" OR 'Status*'="Resolved" AND 'Assignee+'="Sneha Koli"
+
+
+
+
+
+Jamie Herrick, Asim Khan, Andrew Hallam, Shehzad Iqbal, Pete McDonald 
+
+adam griggs
+
+CTM:Support Group
+
+
+
+
+50100108615785 
+
+INC000002222123
+
+User has been removed from the Remedy system,
+
+Paul brookfield 
+Qasim Hussain 
+Rebecca McGurk 
+Rachel Ashworth 
+
+
+£76.59 per user per month remedy license
+
+sarah.croston@nhs.net
+
+
+
+Below users has been added to the Remedy system and shared user id and password with them on separate mail..
+
+Do let me know, if any concern,
+
+
+Pending for information from the user Ellis Taylor
+
+User Abhijeet Ganmale has been created with the queue access -- 
+Queue Name - Problem Management - Offshore
+
+Password has been reset for the user Barrie.Martin
+
+User access has been removed from the below queue access:
+Platform Services CPC Support Infrastructure
+
+Service Desk - Offshore  start from sagar patil 
+1st and 3rd needs to complete
+
+Password has been reset for the user Deviyan.Shah and shared with him on separate mail
+
+Pending for Line manager's approval
+
+User has been added to the Remedy system
+
+I need one information here.. could you please tell me for which user you want to change the email address
+Please correct me, If I am wrong
+
+User Paul.Nichols has been added to the Remedy system and shared user id and password with the User on email separately
+
+Mirror id used is: David Coward
+
+User Hanzala.Karigar has been removed from the Remedy system
+
+
+Provided necessary information to the user.. User is now able to login into the Remedy system
+
+User  Manoj Sharma has been provided with the Access of "Provide Design Services - Offshore" queue and removed from 
+"Project delivery offshore" queue
+
+User Gareth.Stott has been enabled in the Remedy system
+
+User has been enabled in the Remedy system
+
+Pending for some inforamtion from the user
+
+User Mike.Stanton has been removed from the Remedy system
+
+User Brian.Hogg has been added to the below queues/support groups:
+
+CL - DVSA Service
+CL - DVSA Service Bristol
+
+
+I did map/modify your profile same as Paul rampton 
+
+Its done 
+Please check with the user and Do let me know, if any issues
+	
+
+Please check and do let me know, If any issues
+
+Please check with Jon Hailes as the required access has been provided for the change mgmt. also please get back in case any concern.
+
+Please correct me if I am wrong
+
+http://itsvsddnh0841.ad.capita.co.uk 
+http://itsvsddnh0843.ad.capita.co.uk 
+http://itsvsddnh0844.ad.capita.co.uk
+
+R8m8dy^14
+
+
+Please find below password to access Remedy.
+  
+Authentication field needs to be kept blank. Username and password are sufficient to login.
+ 
+System will ask you to change password , once you login into Remedy first time.
+ 
+Kindly let us know, if you have any concern.
+
+
+
+Hi Justin,
+
+Regarding---REQ000001587669.
+
+Notes:
+-------------------------------------------------------------
+SV - Sue Wilcox - User unable to use remedy - Keeps getting timed out.
+-------------------------------------------------------------
+
+Please tell me the username who is facing the issue ?
+
+
+
+
+----------------------------------------------------
+Thanks & Regards
+Sneha Koli | BMC Remedy ITSM
+Email:Sneha.Koli@capita.co.uk
+Associate Software Consultant
+Mob+91-8855036196
+
+
+
+PBI000000138809
+
+
+
+
+Task is completed.. I am closing the Incident request.. Please do let me know, if any concern.... 
+
+Mail id -- Sneha.koli@capita.co.uk
+
+
+
+
+
+Asim.Khan - User has been deactivated as per the request - INC000002054339
+Jamie.Herrick - No change because its same as the user Adam Griggs
+Pete.McDonald - is a normal user 
+Shehzad.Iqbal1- is a normal user.. support groups not assigned to him
+Angelo.Manesero - is a normal user
+Andrew.Hallam -  is a normal user
+Godwin.Ansere-Adjei - Is mapped as same as Adam Griggs
+
+
+
+Could you please confirm that all the users listed in the tickets do not any open tickets assigned to them from the support group they need to be removed?
+
+Also, if the users have only one support group access like Service Desk – offshore and Service Ops Business IT – Offshore group, is it fine to make them an end user, because one support group is required for them to be a support staff?
+
+
+
+
+Hi Aalok,
+
+Regarding--REQ000001602198
+
+Notes--
+
+----------------------------------
+Please disable remedy access for below listed users 
+
+Remedy	10356889	Karnendu Roy
+Remedy	10250153	Imran Mukeri
+----------------------------------
+
+For deleting above users from the Remedy system, It requires Line manager's approval.
+
+Could you please provide the same and do let me know, if any concern.
+
+
+
+Regards
+Sneha
+
+
+Need user account to be created on Laptop PDCLT02PBM3DMM.
+
+
+Hi Team,
+
+User account need to be created on Pool Laptop PDCLT02PBM3DMM.
+
+Also configure Outlook and IE 11 browser.
+
+New Username - Sneha.Koli
+
+Regards
+Sneha
+
+I would like to take up an opportunity with TCS, Could you please reschedule the interview in this week.
+I will be available at any specified time. Please consider my request.
+
+
+Many Thanks
+Sneha Koli
+
+Mob+91-9730313148
+
+
+
+
+Hi Sheri,
+
+This is regarding - REQ000001621448.
+
+Notes-
+========================
+First name of user: Tony
+Last name of user: Sesto
+Phone number of user: 07912999790
+Email address of user: Tony.Sesto@capita.co.uk
+The company the user works for: CapitaThe site that the user is based at: Ibex House
+What level access do they require? What modules do they need access to: SDM profile access same as Sheri Wright
+Name of person user details should be supplied to: Tony Sesto
+Email address of person user details should be supplied to: Tony.Sesto@capita.co.uk
+========================
+
+For providing the user "Tony Sesto" same access/permission as user "Sheri Wright",
+It requires cost code, cost code manager approval along with the Line manager approval.
+
+Kindly provide the same to proceed further. Thanks !!
+
+Do let me know, if any concern.
+
+
+Kind regards
+Sneha

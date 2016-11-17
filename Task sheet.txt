@@ -1,0 +1,72 @@
+KT 09 may
+KT 10 may
+
+Questions:
+Assignee and assignee group?
+people template
+configuring problem management
+Problem Management rules
+Configuring problem management
+
+
+Ask ila:
+
+what is a parent group and standard group?
+what does this mean ?
+Companies with a secure requirement will NOT be added to the standard group.
+what is unrestricted access?
+remove the company association?
+JSDD cost code?
+what is Execute transactional job update?
+
+For change:
+ask user to close the Incident request
+create a WO
+create a change request 
+
+
+
+
+For deletion/offline of a Support staff:
+We need to set the below things in CTM:People form
+1)Notification tab-set Notification as "No"
+2)Set the status as "Offline"
+3)Remove the license (Fixed) and change to "Read"
+4)Reset the password 
+5)Update the Work info tab (Incident no,WO number,any approval)
+
+
+For SPT(No need to work on it)
+SWAN tickets Hari and tausif works
+CIBS(Capita Insurance Benefits Service)
+
+When user dont have access:
+1)Ask him his details
+2)Need SDM approval
+3)Check latest access matrix
+4)Create change request
+5)Create a user within 7 days
+6)Update version control, access matrix tab in ITES
+
+Change approval group which approves the Change request should not be cost anything because 
+they only have permission to Approve/deny the change request.They have Read license, so that
+can not change/edit the Change request.
+Any Incident ticket should not assign to the Change management team.
+
+
+Coordinator group: Newherm college
+Assignee group will be Service desk education
+
+SLA:
+Response - 0 to 2hrs
+Resolution - 5 days (95%)
+
+Q monitoring - response should be "Yes"
+
+
+For Incident request escalation - when ticket is not worked more than 90 days
+Long pending activities. work order we dont have SLA
+
+
+
+

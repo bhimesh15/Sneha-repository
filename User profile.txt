@@ -1,4 +1,27 @@
+sangita 7057772392
+
+08754488336
+
+
+
+
+
+
+
+Capita Customer Management
+
+
+User Ashutosh.Dhamane has been added to the Remedy system and shared user id and password with the user on email
+CTM:Support Group
+
+SHR:LandingConsole
+
 t2998899
+Cost is 76.59 pound per month.
+http://www.amazon.in/Yolo-Womens-Adara-Medium-Shoulder/dp/B00XCJCZFE/ref=pd_sim_sbs_309_3?ie=UTF8&dpID=31xCFt61QEL&dpSrc=sims&preST=_AC_UL200_SR160%2C200_&refRID=1H7SVGB77SYFDT9RY9CT
+
+	Voice: BT MeetMe dial-in number From a Capita Mobile - 0208 939 4260 From a Capita Landline - 0800 032 2910; Participant Passcode: 59057603# 
+	9:56 AM
 
 Important URL's:
 
@@ -145,9 +168,9 @@ Email:Sneha.Koli@capita.co.uk
 
 --->When closing a Incident request
 
-Hi Arvind,
+Hi,
 
-I am closing the Incident request-INC000001995554.
+I am closing the Incident request.
 
 Please do let me know, In case if you have any concern.
 My Email id:Sneha.Koli@capita.co.uk
@@ -348,6 +371,19 @@ Performed below tasks:
 
 6.       Correct foundation data (Phone, Email etc). Email Id change requires to follow some steps.
 
+7.       Create support staff users
+8.       Assign/add extra queues
 
-check submitter mode for me
 
+
+Out of office mail.
+
+On 7th Nov 2016, I am on leave with limited access to Email & Phone. 
+
+In my absence please contact Network team at DL-ITSU-T&S-Remedy <ITSU-T&S-Remedy@capita.co.uk>.
+
+
+
+With Regards,
+
+Sneha Koli
