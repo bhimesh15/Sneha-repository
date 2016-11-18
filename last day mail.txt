@@ -1,0 +1,10 @@
+how to configure foundation data in bmc remedy
+SRM in bmc remedy
+service action of activelink
+web service publish and consume
+CMDB features and forms
+incident problem and change
+change approval process and form
+activelink will get fire in usertool but not in midtier
+
+https://www.udemy.com/
